@@ -6,8 +6,10 @@ Base docker image to run **JRuby** applications in [`azk`](http://azk.io)
 Versions (tags)
 ---
 
+<versions>
 - [`latest`, `jre`, `1`, `1-jre`, `1.7`, `1.7-jre`](https://github.com/azukiapp/docker-jruby/blob/master/1.7/jre/Dockerfile)
 - [`jdk`, `1-jdk`, `1.7-jdk`](https://github.com/azukiapp/docker-jruby/blob/master/1.7/jdk/Dockerfile)
+</versions>
 
 Image content:
 ---
